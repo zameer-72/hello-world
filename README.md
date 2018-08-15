@@ -1,2 +1,2 @@
 # hello-world
-First Hello World Repository
+First Hello World Repository for Git Learning
